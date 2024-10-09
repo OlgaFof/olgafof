@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет, меня зовут Ольга!
 
-<!--
-**OlgaFof/olgafof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Обо мне:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я начинающий тестировщик. Нашла работу по душе.
+
+- 📫 Как связаться со мной: 
+
+ <div class="contacts">
+
+       <img class="photo" src="telegram.png" width="40" height="40" alt="flaticon">
+                 <a href="http://t.me/fillova14">telegram</a> 
+                 <br>
+                 <img class="photo" src="e-mail.png" width="40" height="40" alt="flaticon">
+                 <a href="mailto:shipovalchik@mail.ru">email</a>
+                 <br>
+                 <img class="photo" src="github.png" width="40" height="40" alt="flaticon">
+                 <a href="https://github.com/OlgaFof">github.com</a>
+                 </a>
+  </div>
+
+</div>
+
+---
