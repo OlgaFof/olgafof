@@ -16,7 +16,7 @@
                  <img src="https://cdn-icons-png.flaticon.com/512/17773/17773355.png" width="40" height="40" alt="e-mail" />
                  <a href="mailto:shipovalchik@mail.ru">email</a>
                  <br>
-                 <img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" width="40" height="40" alt="github" />
+                 <img src="https://cdn-icons-png.flaticon.com/128/733/733609.png" width="40" height="40" alt="github" />
                  <a href="https://github.com/OlgaFof">github.com</a>
                  </a>
   </div>
