@@ -10,7 +10,7 @@
 
  <div class="contacts">
 
-       <img class="photo" src="telegram.png" width="40" height="40" alt="flaticon">
+       <img class="photo" src="telegram.png" width="40" height="40">
                  <a href="http://t.me/fillova14">telegram</a> 
                  <br>
                  <img class="photo" src="e-mail.png" width="40" height="40" alt="flaticon">
